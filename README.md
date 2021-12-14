@@ -1,2 +1,4 @@
 # vagrant
-Vagrant playground repository
+Vagrant playground repository.
+
+## Description
