@@ -1,2 +1,2 @@
 # vagrant
-Vagrant playground
+Vagrant playground repository
